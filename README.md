@@ -1,2 +1,0 @@
-# labbar
-python labbar
